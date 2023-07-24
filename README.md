@@ -6,6 +6,7 @@ Please not that this upload is incomplete, due to file size restrictions. Specif
 This assignment was written in Python, utilizing Tensorflow, and consisted of 2 parts:
 
 ---1---
+
 The reinforcement learning algoritm, Deep Q-Learning, was researched, detailing what it is and the underlying issues that this method has and how Double Deep Q-Learning circumvents said problems.
 
 An empirical study was then conducted, using the Taxi game available on Gym (https://www.gymlibrary.dev/environments/toy_text/taxi/#taxi). A Deep Q-learning network was created, with changes made to improve its performance. The same was done with a Double Deep Q-learning network, and the results of the 2 were compared.
